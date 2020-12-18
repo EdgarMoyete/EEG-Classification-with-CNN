@@ -36,19 +36,19 @@ In this work the same pre-processing, the same number of channels and the same n
 * `Explorar.ipynb`: Visualización de espectrogramas con STFT, escalogramas con CWT y de la predicción de las redes neuronales (CNN-2D o CNN-2D + LSTM)
 * `Predecir.ipynb`: Predecir la etiqueta de nuevos ejemplos de EEG
 
-#### EjemploEEG
+### EjemploEEG
 Se encuentran 4 archivos para poder ejecutar un ejemplo:
 
-x_train: MI-EEG-B9T.csv
+* x_train: `MI-EEG-B9T.csv`
 
-x_test: MI-EEG-B9E.csv
+* x_test: `MI-EEG-B9E.csv`
 
-y_train: etiquetas_train_9.csv
+* y_train: `etiquetas_train_9.csv`
 
-y_test: etiquetas_test_9.csv
+* y_test: `etiquetas_test_9.csv`
 
-#### Data sets
-BCI Competition IV dataset 2a y BCI Competition IV dataset 2b
+### Data sets
+* BCI Competition IV dataset 2a y BCI Competition IV dataset 2b
 
 http://www.bbci.de/competition/iv/
 
@@ -58,15 +58,15 @@ http://www.bbci.de/competition/iv/desc_2b.pdf
 
 http://bbci.de/competition/iv/results/
 
-BCI Competition II dataset III
+* BCI Competition II dataset III
 
 http://www.bbci.de/competition/ii/
 
 http://www.bbci.de/competition/ii/results/index.html
 
 #### Mas información
-Tesis: link pendiente
+* Tesis: link pendiente
 
-Articulo: link pendiente
+* Articulo: link pendiente
 
-Explicación del código: link pendiente
+* Explicación del código: link pendiente
