@@ -64,8 +64,8 @@ http://www.bbci.de/competition/ii/
 
 http://www.bbci.de/competition/ii/results/index.html
 
-#### Mas información
-* Tesis: link pendiente
+### Mas información
+* Tesis: https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2001
 
 * Articulo: link pendiente
 
