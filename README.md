@@ -69,6 +69,6 @@ http://www.bbci.de/competition/ii/results/index.html
 
 * Articulo: link pendiente
 
-* Explicación del código: https://drive.google.com/file/d/114wqampf0aupHSm5dvoRt8UTRK4uOCov/view?usp=sharing
+* Explicación del código: https://drive.google.com/file/d/114wqampf0aupHSm5dvoRt8UTRK4uOCov/view
 
 * Presentación: https://drive.google.com/file/d/1bjJN5KYD8F2-oNR1mg-lF_sZfjsGeMmY/view
