@@ -67,7 +67,15 @@ http://www.bbci.de/competition/ii/results/index.html
 ### Mas información
 * Tesis: https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2001
 
-* Articulo (me lo puedes pedir personalmente edgar.h@inaoep.mx (you can ask me personally edgar.h@inaoep.mx)): https://ieeexplore.ieee.org/document/9629958, https://pubmed.ncbi.nlm.nih.gov/34891403/
+* Articulo:
+
+Me lo puedes pedir personalmente edgar.h@inaoep.mx
+
+You can ask me personally edgar.h@inaoep.mx
+
+https://ieeexplore.ieee.org/document/9629958
+
+https://pubmed.ncbi.nlm.nih.gov/34891403/
 
 * Explicación del código: https://drive.google.com/file/d/114wqampf0aupHSm5dvoRt8UTRK4uOCov/view
 
