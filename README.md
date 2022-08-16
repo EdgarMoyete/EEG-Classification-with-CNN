@@ -48,10 +48,15 @@ Se encuentran 4 archivos para poder ejecutar un ejemplo:
 * y_test: `etiquetas_test_9.csv`
 
 Si necesita, todos los datos en .csv, estan disponibles en los siguientes links
+
 Todos los datos tienen el siguiente preprocesamiento: referencia promedio comun (CAR) y un filtro pasa banda 8-30Hz
+
 Si usa estos datos preprocesados favor de citar el trabajo: Hernández-González, E., Gómez-Gil, P., Bojorges-Valdez, E., & Ramírez-Cortés, M. (2021, November). Bi-dimensional representation of EEGs for BCI classification using CNN architectures. In 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) (pp. 767-770). IEEE.
+
 BCI IV dataset 2a: https://drive.google.com/drive/folders/1vSevNi-3iU7fQbMD1KZgikxJqff17ZiP?usp=sharing
+
 BCI IV dataset 2b: https://drive.google.com/drive/folders/1C4FktIBUgqG0fzfDam-reWDcSBhg4viU?usp=sharing
+
 BCI II dataset III: https://drive.google.com/drive/folders/1XfMZSGb9NwKUO9Mbs9WtvNYD_C3Fk6hY?usp=sharing
 
 ### Data sets
